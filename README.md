@@ -30,4 +30,4 @@
 
 ## Repository Link
 
-[Git repository link.](https://github.com/EuJinnLucaShow/todo-app)
+[Git repository link.](https://github.com/FikriAminuddin/todo-app-useAPI)
